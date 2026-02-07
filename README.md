@@ -36,12 +36,18 @@ Learned to implement long division algorithm using linked lists.
 Enhanced debugging skills by fixing segmentation faults and memory leaks.
 
 📝 **Notes**
+
 This project works only with integer values.
+
 Floating-point and decimal calculations are not supported.
+
 Input numbers can be of any length, limited only by system memory.
+
 Proper input format must be followed:
 ./apc <operand1> <operator> <operand2>
+
 Supported operators are: +, -, x, X, /.
+
 Leading zeros in input are removed automatically.
 
 📁**SCREENSHOTS**
