@@ -22,12 +22,17 @@ This project supports mathematical operations on very large numbers that cannot 
 - Platform: Linux / Windows (WSL)
 
 📚 **Key Learnings**
+
 Gained strong understanding of Doubly Linked Lists and their practical usage.
 
 Learned how to implement arbitrary precision arithmetic without using built-in data types.
+
 Improved knowledge of pointer handling and dynamic memory allocation in C.
+
 Understood how to manage carry and borrow operations manually.
+
 Learned to implement long division algorithm using linked lists.
+
 Enhanced debugging skills by fixing segmentation faults and memory leaks.
 
 📝 **Notes**
