@@ -57,4 +57,7 @@ Leading zeros in input are removed automatically.
 <img width="1423" height="1005" alt="Screenshot 2026-02-07 233829" src="https://github.com/user-attachments/assets/25cce06b-9492-4d36-9227-e372642740a5" />
 **MULTIPLICATION**
 <img width="1255" height="1011" alt="Screenshot 2026-02-07 234122" src="https://github.com/user-attachments/assets/a4c0ae5d-79af-4916-928b-8892c0bfaae5" />
+**DIVISION**
+<img width="1419" height="1027" alt="Screenshot 2026-02-08 115758" src="https://github.com/user-attachments/assets/c4980ffa-0601-400c-9be3-bfd18bb4d9c6" />
+
 
